@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shohel-kashyapa&show_icons=true&locale=en" alt="shohel-kashyapa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shohel-kashyapa&" alt="shohel-kashyapa" /></p>
+
+![kalehege snake gif](https://github.com/Shohel-kashyapa/Shohel-kashyapa/blob/main/github-contribution-grid-snake.svg)
