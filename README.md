@@ -20,7 +20,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https:/https://www.shohelkashyapa.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
