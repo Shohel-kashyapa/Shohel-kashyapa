@@ -1,12 +1,10 @@
 <!-- TOP BANNER IMAGE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Shohel%20Kashyapa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Sri%20Lanka&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=SHOHEL%20KASHYAPA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Sri%20Lanka&descAlignY=60&descSize=18" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shohel Kashyapa</h1>
 <h3 align="center">Full Stack Developer from Sri Lanka 🇱🇰</h3>
-
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shohel-kashyapa&label=Profile%20views&color=0e75b6&style=flat" alt="shohel-kashyapa" />
