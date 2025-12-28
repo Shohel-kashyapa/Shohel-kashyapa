@@ -1,3 +1,8 @@
+<!-- TOP BANNER IMAGE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Shohel%20Kashyapa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Sri%20Lanka&descAlignY=60&descSize=18" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shohel Kashyapa</h1>
 <h3 align="center">Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
@@ -39,6 +44,7 @@
 ---
 
 ## 🧰 Tech Stack
+
 ### 🚀 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
@@ -75,18 +81,6 @@
 ![GCP](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shohel-kashyapa&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shohel-kashyapa&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohel-kashyapa&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
