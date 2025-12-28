@@ -20,26 +20,23 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https:/https://www.shohelkashyapa.com" target="_blank">
+  <a href="https://www.shohelkashyapa.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/shohel-kashyapa-86b162253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-0f172a?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
+  <a href="https://www.instagram.com/kashyapa.vue/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
-  <a href="https://facebook.com/your-facebook" target="_blank">
+  <a href="https://www.facebook.com/shohel.kashyapa/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0f172a?style=for-the-badge&logo=facebook&logoColor=1877F2" />
   </a>
-  <a href="https://discord.gg/291141510265700353" target="_blank">
+  <a href="291141510265700353" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
 
