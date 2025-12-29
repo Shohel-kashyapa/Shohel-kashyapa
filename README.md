@@ -11,6 +11,7 @@
 
 ## 👨‍💻 About Me
 
+- 🎓 Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**
 - 🔭 Currently working on **Full Stack Web & Mobile Applications**
 - 🌱 Learning **Cloud, DevOps & Modern Architectures**
 - ⚡ Love building **clean UI + scalable backends**
@@ -80,6 +81,11 @@
 ![GCP](https://img.shields.io/badge/GCP-0f172a?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+
+### 🎨 Design & Editing
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-0f172a?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-0f172a?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-0f172a?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
 
 ---
 
